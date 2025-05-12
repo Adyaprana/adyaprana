@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Adyaprana"><img src="https://img.shields.io/github/followers/Adyaprana?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/adyaprana/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adyaprana21/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Adyaprana"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"></a>
   <a href="https://instagram.com/adyaprana"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white"></a>
 </p>
@@ -52,8 +52,8 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/adyaprana"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:adyapranamail@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/adyaprana21"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:adyaprana21@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
