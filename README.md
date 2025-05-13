@@ -54,6 +54,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/adyaprana21"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:adyaprana21@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
 </p>
 
 ---
