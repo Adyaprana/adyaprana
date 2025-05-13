@@ -49,7 +49,7 @@
 ## 🏆 Achievements
 
 - Developed **Nexora.ai**, a real-time AI chatbot using Mistral & Streamlit
-- Building a **Fitness Tracker Web App** with Flask & Bootstrap
+- Building a **Rasaalaya** a restaurant menu and ordering platform with Flask & Bootstrap
 - Active contributor in open source & DevOps communities
 
 ---
