@@ -4,11 +4,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adyaprana"><img src="https://img.shields.io/github/Adyaprana?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/adyaprana21/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  <a href="https://x.com/adyaprana21"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/tensor_photos/#"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white"></a>
+  <a href="https://github.com/Adyaprana">
+    <img src="https://img.shields.io/github/followers/Adyaprana?label=Follow&style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/adyaprana21/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/adyaprana21">
+    <img src="https://img.shields.io/badge/-X-blue?style=flat-square&logo=Twitter&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/tensor_photos/">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=Instagram&logoColor=white">
+  </a>
+  <a href="https://www.adyaprana.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Firefox&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
