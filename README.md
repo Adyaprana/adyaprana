@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Enthusiast;AI+%7C+Web+Developer;Passionate+Open+Source+Contributor&center=true&width=500&height=45">
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/Adyaprana?label=Follow&style=social">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
