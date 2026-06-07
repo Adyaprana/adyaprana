@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Adyaprana
+<h1 align="center">👋 Hey there, I'm Adyaprana</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Building+Projects+That+Matter;AI+%7C+Backend+%7C+Cloud;Learning+in+Public;Turning+Ideas+Into+Reality" alt="Typing SVG" />
@@ -38,18 +38,16 @@ Building:
   - AI-powered applications
   - Backend systems
   - Open-source contributions
+  - Currently documenting my Backend Developer Journey publicly
+
 
 Exploring:
+  - Backend Development
   - Artificial Intelligence
   - Cloud Technologies
   - Software Engineering
   - Modern Development Tools
 
-Mindset:
-  - Build
-  - Learn
-  - Improve
-  - Repeat
 ```
 
 ---
@@ -71,14 +69,6 @@ Mindset:
 | 📚 **Backend Developer Journey** | Public learning repository            |
 | 🌐 **Portfolio Website**         | Personal website and project showcase |
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adyaprana&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyaprana&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -89,13 +79,11 @@ Mindset:
 </p>
 
 ---
-
-## 🏆 Achievement Wall
+## 📊 Metrics Dashboard
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adyaprana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="/github-metrics.svg">
 </p>
-
 ---
 
 ## 📊 Profile Summary
