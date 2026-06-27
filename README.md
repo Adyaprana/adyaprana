@@ -103,10 +103,10 @@ Exploring:
 
 </td>
 
-<td width="40%" align="center">
+<!-- <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI1OXNnY3h3dzNweWhtMW11Yjc2ejY1Mmc0cmQ0OGI4c2ZvaWRmeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" alt="Coding Animation"/></td>
-
+ -->
 
 
 
