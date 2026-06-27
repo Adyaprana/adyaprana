@@ -59,16 +59,59 @@ Exploring:
 </p>
 
 ---
+<h2 align="center">📊 Dashboard</h2>
+
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adyaprana&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyaprana&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adyaprana&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🌟 Featured Projects
 
-| Project                          | Description                           |
-| -------------------------------- | ------------------------------------- |
-| 🚀 **Nexora AI**                 | AI-powered chatbot platform           |
-| 🍽️ **Rasaalaya**                | Restaurant menu & ordering system     |
-| 📚 **Backend Developer Journey** | Public learning repository            |
-| 🌐 **Portfolio Website**         | Personal website and project showcase |
+<table>
+<tr>
 
+<td width="60%" valign="top">
+
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| **Nexora AI** | AI-powered chatbot platform |
+| **Rasaalaya** | Restaurant menu & ordering system |
+| **Backend Developer Journey** | Public learning repository documenting my backend journey |
+| **Portfolio Website** | Personal website showcasing projects and achievements |
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDI1OXNnY3h3dzNweWhtMW11Yjc2ejY1Mmc0cmQ0OGI4c2ZvaWRmeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200px" alt="Coding Animation"/></td>
+
+
+
+
+</tr>
+</table>
 
 ---
 
